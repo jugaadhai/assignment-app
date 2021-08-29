@@ -1,6 +1,5 @@
 {
     "articles": [
-      [
         {
           "id": 73509,
           "aboutAdmin": "A mechanical engineer by profession, but instead of loving machines I love blogging. I always wanted to write articles and here I am writing about jugaads. In my free time I love to read the books and watch movies.",
@@ -41,6 +40,5 @@
           "videoId": null,
           "views": 170
         }
-      ]
     ]
   }
