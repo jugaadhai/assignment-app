@@ -1,5 +1,5 @@
 # JugaadHai Intership Task APIs
-This Repository contains 2 dummy APIs with some sample data
+This Repository contains 3 dummy APIs with some sample data
 
 - Article-list api[GET]: https://my-json-server.typicode.com/jugaadhai/dummy-api/articles/
 - Article-detail api[GET]: https://my-json-server.typicode.com/jugaadhai/dummy-api/articles/:id // Replace the ":id" with actual Id, for example https://my-json-server.typicode.com/jugaadhai/dummy-api/articles/73509
