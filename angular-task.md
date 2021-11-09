@@ -7,11 +7,7 @@
 3. Create an article-detail component to display the article details
     1. Read the article id from active Route and use article-detail api to fetch the article details from server
     2. Display the data
-    3. Add a button “Mark as read” to article details page
-4. Mark this article as read functionality 
-    1. Once user will click on “Mark as read”, user mark-read api to mark the article as read
-    2. Make a post request and send article-id in request body
-5. Add a feedback button on article list page, once clicked, required user to feedback page
+4. Add a feedback button on article list page, once clicked, redirect user to feedback page
     1. Feedback page will contain below fields
         1. Name as input field
         2. Feedback as text area
