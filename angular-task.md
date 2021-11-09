@@ -15,6 +15,9 @@
         4. A button to save the data
     2. Use save-feedback api to post the form data
 
+## How to share the task
+Update your code on a Github public repository and share your task with us.
+
 ## Pro Tips
 1. Use ReactiveFormModule for form design
 2. Use HttpClientModule while making Http requests
