@@ -17,6 +17,9 @@
         3. Will you refer JugaadHai to a friend as radio button (yes, no)
         4. A button to save the data
     2. Use save-feedback api to post the form data
+
+## How to share the task
+Update your code on a Github public repository and share your task with us.
   
 ### Pro Tips
 1. To make http requests use https://pub.dev/packages/http
