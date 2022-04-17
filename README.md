@@ -3,7 +3,7 @@ This Repository contains 3 dummy APIs with some sample data
 
 - Article-list api[GET]: https://my-json-server.typicode.com/jugaadhai/assignment-app/articles/
 - Article-detail api[GET]: https://my-json-server.typicode.com/jugaadhai/assignment-app/articles/:id // Replace the ":id" with actual Id, for example https://my-json-server.typicode.com/jugaadhai/assignment-app/articles/73509
-- Feedback api[POST]: http://134.209.146.161:2949/api/Test <br>
+- Feedback api[POST]: https://api.jhuat.in/api/Test <br>
 Sample request body
 ```json
 {
