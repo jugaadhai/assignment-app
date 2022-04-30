@@ -40,5 +40,21 @@
           "videoId": null,
           "views": 170
         }
-    ]
+    ],
+    "banners": [
+    {
+      "id": 1,
+      "bannerName": "xyz",
+      "bannerImage": "https://dummyimage.com/900x400/000/fff&text=Banner+Big+1",
+      "bannerMobileImage": "https://dummyimage.com/400x250/000/fff&text=Banner+1",
+      "redirectUrl": "https://jhuat.in/article/46400/nbsnjpj-nnv"
+    },
+    {
+      "id": 2,
+      "bannerName": "abc",
+      "bannerImage": "https://dummyimage.com/900x400/000/fff&text=Banner+Big+2",
+      "bannerMobileImage": "https://dummyimage.com/400x250/000/fff&text=Banner+2",
+      "redirectUrl": "https://jhuat.in/article/46399/Fuga-Nam-harum-earu"
+    }  
+  ]
   }
